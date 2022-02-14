@@ -10,17 +10,18 @@
     "discord.js": "^11.6.4",
     "dotenv": "^10.0.0",
     "plotly": "^1.0.6",
-    "turndown": "^4.0.2"
+    "turndown": "^4.0.2",
+    "twitter": "^1.7.1"
   },
   "devDependencies": {
-    "unix-timestamp-transform": "0.0.5",
     "eslint": "^5.14.1",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "jest": "^24.9.0",
     "nodemon": "^1.17.3",
-    "supertest": "^3.0.0"
+    "supertest": "^3.0.0",
+    "unix-timestamp-transform": "0.0.5"
   },
   "scripts": {
     "start": "node index.js",
